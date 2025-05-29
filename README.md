@@ -2,12 +2,12 @@
 
 ## TASK 1
 
-![alt text](images/tasK_1a.png)
+![alt text](images/task_1a.png)
 
-![alt text](images/tasK_1b.png)
+![alt text](images/task_1b.png)
 
 Висновок: Обидва алгоритми мають схожу продуктивність на випадкових масивах, проте рандомізований QuickSort демонструє стабільно трохи кращі результати на великих розмірах масивів. Це пов’язано з меншою ймовірністю вибору невдалого pivot-елемента, що може зменшити глибину рекурсії.
 
 ## TASK 2
 
-![alt text](images/tasK_2.png)
+![alt text](images/task_2.png)
